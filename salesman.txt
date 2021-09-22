@@ -1,0 +1,8 @@
+create table salesman(Id int,name varchar(20),city varchar(20),commossion int);
+insert into salesmen(5001,'James hoog','New York',0.15);
+insert into salesmen(5002,'Nail Knite','Paris',0.13);
+insert into salesmen(5005,'Pit Alex','London',0.11);
+insert into salesmen(5006,'Mc Lyon','Paris',0.14);
+insert into salesmen(5007,'Paul Adman','Rome',0.13);
+insert into salesmen(5003,'Lauson hen','San Jose',0.12);
+select * from salesman;
